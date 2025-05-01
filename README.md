@@ -58,3 +58,10 @@ Component sizing is critical for achieving efficient voltage boosting. The follo
 - Add output current sensing for load regulation
 - Design a PCB version of the circuit
 - Add LCD to display input/output voltages and duty cycle
+
+## 👤 Author
+
+> Created by Yasteer Sewpersad
+
+> Electronic Engineering Portfolio of Evidence
+
